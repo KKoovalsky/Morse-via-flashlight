@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PTM_SecondProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="selectStrobe">Stroboscope</string>
+    <string name="selectMorse">Morse Code</string>
+
+    <string-array name="morse_code">
+        <item>·-</item>
+        <item>-···</item>
+        <item>-·-·</item>
+        <item>-··</item>
+        <item>·</item>
+        <item>··-·</item>
+        <item>--·</item>
+        <item>····</item>
+        <item>··</item>
+        <item>·---</item>
+        <item>-·-</item>
+        <item>·-··</item>
+        <item>--</item>
+        <item>-·</item>
+        <item>---</item>
+        <item>·--·</item>
+        <item>--·-</item>
+        <item>·-·</item>
+        <item>···</item>
+        <item>-</item>
+        <item>··-</item>
+        <item>···-</item>
+        <item>·--</item>
+        <item>-··-</item>
+        <item>-·--</item>
+        <item>--··</item>
+    </string-array>
+
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="enterText">Enter sequence to broadcast:</string>
+    <string name="startBroadcasting">Start</string>
+    <string name="stopBroadcasting">Stop</string>
+    <string name="goMainMenu">Go to main menu</string>
+    <string name="switch_strobe">Switch on stroboscope</string>
+    <string name="hello">Which mode of using flashlight do you want?</string>
+    <string name="title_activity_broadcasting_activity">BroadcastingActivity</string>
+    <string name="checkRepeating">Loop the sequence</string>
+
+
+</resources>
